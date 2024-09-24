@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="945d8ed7-1fb5-488a-a8e1-5f6540939544" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IvW9nLhZzR8SMdKJYa14yXR99D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Input_Dataframes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Income_Data_2010-2019" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.all_years_just_BLFMM">
+    <configuration name="2019" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UNPD Inequality Index All Countries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ivan_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UNPD Inequality Index All Countries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ivan_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jamison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UNPD Inequality Index All Countries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jamison.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_years" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UNPD Inequality Index All Countries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_years.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all_years_just_BLFMM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UNPD Inequality Index All Countries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_years_just_BLFMM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.all_years_just_BLFMM" />
+        <item itemvalue="Python.Ivan_code" />
+        <item itemvalue="Python.Jamison" />
+        <item itemvalue="Python.all_years" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="945d8ed7-1fb5-488a-a8e1-5f6540939544" name="Changes" comment="" />
+      <created>1671062388807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671062388807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717612143022">
+      <screen x="0" y="39" width="1710" height="1000" />
+    </state>
+    <state x="336" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.39.1710.1000@0.39.1710.1000" timestamp="1717612143022" />
+    <state x="626" y="287" key="EnvironmentVariablesDialog" timestamp="1717612109910">
+      <screen x="0" y="39" width="1710" height="1000" />
+    </state>
+    <state x="626" y="287" key="EnvironmentVariablesDialog/0.39.1710.1000@0.39.1710.1000" timestamp="1717612109910" />
+    <state x="843" y="213" key="FileChooserDialogImpl" timestamp="1717612624109">
+      <screen x="0" y="39" width="1710" height="1000" />
+    </state>
+    <state x="843" y="213" key="FileChooserDialogImpl/0.39.1710.1000@0.39.1710.1000" timestamp="1717612624109" />
+    <state width="1379" height="365" key="GridCell.Tab.0.bottom" timestamp="1722049237998">
+      <screen x="0" y="39" width="1710" height="1008" />
+    </state>
+    <state width="1379" height="225" key="GridCell.Tab.0.bottom/0.39.1710.1000@0.39.1710.1000" timestamp="1717791343823" />
+    <state width="1379" height="236" key="GridCell.Tab.0.bottom/0.39.1710.1001@0.39.1710.1001" timestamp="1718210497778" />
+    <state width="1379" height="213" key="GridCell.Tab.0.bottom/0.39.1710.1003@0.39.1710.1003" timestamp="1718140562360" />
+    <state width="1379" height="184" key="GridCell.Tab.0.bottom/0.39.1710.1006@0.39.1710.1006" timestamp="1718214387568" />
+    <state width="1379" height="292" key="GridCell.Tab.0.bottom/0.39.1710.1007@0.39.1710.1007" timestamp="1722023193278" />
+    <state width="1379" height="365" key="GridCell.Tab.0.bottom/0.39.1710.1008@0.39.1710.1008" timestamp="1722049237998" />
+    <state width="1379" height="275" key="GridCell.Tab.0.bottom/0.39.1710.1009@0.39.1710.1009" timestamp="1718738344279" />
+    <state width="1379" height="307" key="GridCell.Tab.0.bottom/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="378" key="GridCell.Tab.0.bottom/0.39.1710.1011@0.39.1710.1011" timestamp="1719887633390" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.39.1710.1013@0.39.1710.1013" timestamp="1719886228823" />
+    <state width="1379" height="286" key="GridCell.Tab.0.bottom/0.39.1710.998@0.39.1710.998" timestamp="1717617909740" />
+    <state width="1379" height="365" key="GridCell.Tab.0.center" timestamp="1722049237997">
+      <screen x="0" y="39" width="1710" height="1008" />
+    </state>
+    <state width="1379" height="225" key="GridCell.Tab.0.center/0.39.1710.1000@0.39.1710.1000" timestamp="1717791343823" />
+    <state width="1379" height="236" key="GridCell.Tab.0.center/0.39.1710.1001@0.39.1710.1001" timestamp="1718210497777" />
+    <state width="1379" height="213" key="GridCell.Tab.0.center/0.39.1710.1003@0.39.1710.1003" timestamp="1718140562359" />
+    <state width="1379" height="184" key="GridCell.Tab.0.center/0.39.1710.1006@0.39.1710.1006" timestamp="1718214387568" />
+    <state width="1379" height="292" key="GridCell.Tab.0.center/0.39.1710.1007@0.39.1710.1007" timestamp="1722023193278" />
+    <state width="1379" height="365" key="GridCell.Tab.0.center/0.39.1710.1008@0.39.1710.1008" timestamp="1722049237997" />
+    <state width="1379" height="275" key="GridCell.Tab.0.center/0.39.1710.1009@0.39.1710.1009" timestamp="1718738344278" />
+    <state width="1379" height="307" key="GridCell.Tab.0.center/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="378" key="GridCell.Tab.0.center/0.39.1710.1011@0.39.1710.1011" timestamp="1719887633390" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.39.1710.1013@0.39.1710.1013" timestamp="1719886228822" />
+    <state width="1379" height="286" key="GridCell.Tab.0.center/0.39.1710.998@0.39.1710.998" timestamp="1717617909740" />
+    <state width="1379" height="365" key="GridCell.Tab.0.left" timestamp="1722049237997">
+      <screen x="0" y="39" width="1710" height="1008" />
+    </state>
+    <state width="1379" height="225" key="GridCell.Tab.0.left/0.39.1710.1000@0.39.1710.1000" timestamp="1717791343822" />
+    <state width="1379" height="236" key="GridCell.Tab.0.left/0.39.1710.1001@0.39.1710.1001" timestamp="1718210497777" />
+    <state width="1379" height="213" key="GridCell.Tab.0.left/0.39.1710.1003@0.39.1710.1003" timestamp="1718140562359" />
+    <state width="1379" height="184" key="GridCell.Tab.0.left/0.39.1710.1006@0.39.1710.1006" timestamp="1718214387568" />
+    <state width="1379" height="292" key="GridCell.Tab.0.left/0.39.1710.1007@0.39.1710.1007" timestamp="1722023193278" />
+    <state width="1379" height="365" key="GridCell.Tab.0.left/0.39.1710.1008@0.39.1710.1008" timestamp="1722049237997" />
+    <state width="1379" height="275" key="GridCell.Tab.0.left/0.39.1710.1009@0.39.1710.1009" timestamp="1718738344278" />
+    <state width="1379" height="307" key="GridCell.Tab.0.left/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456876" />
+    <state width="1379" height="378" key="GridCell.Tab.0.left/0.39.1710.1011@0.39.1710.1011" timestamp="1719887633389" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.39.1710.1013@0.39.1710.1013" timestamp="1719886228821" />
+    <state width="1379" height="286" key="GridCell.Tab.0.left/0.39.1710.998@0.39.1710.998" timestamp="1717617909739" />
+    <state width="1379" height="365" key="GridCell.Tab.0.right" timestamp="1722049237997">
+      <screen x="0" y="39" width="1710" height="1008" />
+    </state>
+    <state width="1379" height="225" key="GridCell.Tab.0.right/0.39.1710.1000@0.39.1710.1000" timestamp="1717791343823" />
+    <state width="1379" height="236" key="GridCell.Tab.0.right/0.39.1710.1001@0.39.1710.1001" timestamp="1718210497778" />
+    <state width="1379" height="213" key="GridCell.Tab.0.right/0.39.1710.1003@0.39.1710.1003" timestamp="1718140562360" />
+    <state width="1379" height="184" key="GridCell.Tab.0.right/0.39.1710.1006@0.39.1710.1006" timestamp="1718214387568" />
+    <state width="1379" height="292" key="GridCell.Tab.0.right/0.39.1710.1007@0.39.1710.1007" timestamp="1722023193278" />
+    <state width="1379" height="365" key="GridCell.Tab.0.right/0.39.1710.1008@0.39.1710.1008" timestamp="1722049237997" />
+    <state width="1379" height="275" key="GridCell.Tab.0.right/0.39.1710.1009@0.39.1710.1009" timestamp="1718738344279" />
+    <state width="1379" height="307" key="GridCell.Tab.0.right/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="378" key="GridCell.Tab.0.right/0.39.1710.1011@0.39.1710.1011" timestamp="1719887633390" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.39.1710.1013@0.39.1710.1013" timestamp="1719886228822" />
+    <state width="1379" height="286" key="GridCell.Tab.0.right/0.39.1710.998@0.39.1710.998" timestamp="1717617909740" />
+    <state width="1379" height="307" key="GridCell.Tab.1.bottom" timestamp="1718728456877">
+      <screen x="0" y="39" width="1710" height="1010" />
+    </state>
+    <state width="1379" height="307" key="GridCell.Tab.1.bottom/0.39.1710.1009@0.39.1710.1009" timestamp="1718726885680" />
+    <state width="1379" height="307" key="GridCell.Tab.1.bottom/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="315" key="GridCell.Tab.1.bottom/0.39.1710.1011@0.39.1710.1011" timestamp="1718232460881" />
+    <state width="1379" height="315" key="GridCell.Tab.1.bottom/0.39.1710.998@0.39.1710.998" timestamp="1717613606795" />
+    <state width="1379" height="307" key="GridCell.Tab.1.center" timestamp="1718728456877">
+      <screen x="0" y="39" width="1710" height="1010" />
+    </state>
+    <state width="1379" height="307" key="GridCell.Tab.1.center/0.39.1710.1009@0.39.1710.1009" timestamp="1718726885676" />
+    <state width="1379" height="307" key="GridCell.Tab.1.center/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="315" key="GridCell.Tab.1.center/0.39.1710.1011@0.39.1710.1011" timestamp="1718232460880" />
+    <state width="1379" height="315" key="GridCell.Tab.1.center/0.39.1710.998@0.39.1710.998" timestamp="1717613606795" />
+    <state width="1379" height="307" key="GridCell.Tab.1.left" timestamp="1718728456877">
+      <screen x="0" y="39" width="1710" height="1010" />
+    </state>
+    <state width="1379" height="307" key="GridCell.Tab.1.left/0.39.1710.1009@0.39.1710.1009" timestamp="1718726885675" />
+    <state width="1379" height="307" key="GridCell.Tab.1.left/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="315" key="GridCell.Tab.1.left/0.39.1710.1011@0.39.1710.1011" timestamp="1718232460880" />
+    <state width="1379" height="315" key="GridCell.Tab.1.left/0.39.1710.998@0.39.1710.998" timestamp="1717613606795" />
+    <state width="1379" height="307" key="GridCell.Tab.1.right" timestamp="1718728456877">
+      <screen x="0" y="39" width="1710" height="1010" />
+    </state>
+    <state width="1379" height="307" key="GridCell.Tab.1.right/0.39.1710.1009@0.39.1710.1009" timestamp="1718726885680" />
+    <state width="1379" height="307" key="GridCell.Tab.1.right/0.39.1710.1010@0.39.1710.1010" timestamp="1718728456877" />
+    <state width="1379" height="315" key="GridCell.Tab.1.right/0.39.1710.1011@0.39.1710.1011" timestamp="1718232460881" />
+    <state width="1379" height="315" key="GridCell.Tab.1.right/0.39.1710.998@0.39.1710.998" timestamp="1717613606795" />
+    <state x="564" y="90" key="SettingsEditor" timestamp="1717612657825">
+      <screen x="0" y="39" width="1710" height="1000" />
+    </state>
+    <state x="564" y="90" key="SettingsEditor/0.39.1710.1000@0.39.1710.1000" timestamp="1717612657825" />
+    <state x="490" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1725980906207">
+      <screen x="0" y="39" width="1710" height="1008" />
+    </state>
+    <state x="490" y="337" key="com.intellij.ide.util.TipDialog/0.39.1710.1008@0.39.1710.1008" timestamp="1725980906207" />
+    <state x="490" y="338" key="com.intellij.ide.util.TipDialog/0.39.1710.1010@0.39.1710.1010" timestamp="1718728522008" />
+    <state x="490" y="334" key="com.intellij.ide.util.TipDialog/0.39.1710.995@0.39.1710.995" timestamp="1724101803278" />
+    <state x="365" y="249" width="670" height="676" key="search.everywhere.popup" timestamp="1717609082036">
+      <screen x="0" y="39" width="1710" height="1000" />
+    </state>
+    <state x="365" y="249" width="670" height="676" key="search.everywhere.popup/0.39.1710.1000@0.39.1710.1000" timestamp="1717609082036" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2019.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2019.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2010.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
